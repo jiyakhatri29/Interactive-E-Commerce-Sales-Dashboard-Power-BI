@@ -15,3 +15,6 @@ Built an interactive Power BI dashboard to track sales, profit, orders, customer
 - Data Visualization
 
 ## Dashboard Preview
+![Dashboard Preview](E-commerceSalesDashboardPowerBI.png)
+
+Add dashboard preview image
